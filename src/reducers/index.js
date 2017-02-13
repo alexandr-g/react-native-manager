@@ -1,4 +1,4 @@
-import { combineReducers } from 'reduxe';
+import { combineReducers } from 'redux';
 
 export default combineReducers({
   banana: () => []
